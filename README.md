@@ -15,9 +15,9 @@
 
 ````bash
 > node ottersek.js --contact
-> discord: Skrrr#7598
-> instagram: ottersec
-> github: ottersek
+> discord: @karolshearts
+> instagram: @ottersec
+> github: @ottersek
 ````
 
 ```
