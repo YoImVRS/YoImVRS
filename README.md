@@ -1,6 +1,6 @@
 ````bash
 > node ottersek.js --info
-> I'm an enthusiastic 18-year-old programmer from Spain. I consider
+> Im an enthusiastic 18-year-old programmer from Spain. I consider
 > myself a true tech revolutionary. As the founder of OnionWare, a powerful software 
 > designed to gather comprehensive information from Windows/Linux operating systems and 
 > upload it to a private CDN hosted on a Tor server with a .onion private domain, my aim is 
@@ -8,9 +8,9 @@
 > all browser data, system information, disables BIOS/UEFI, and provides detailed network 
 > info. It also injects into cryptocurrency wallets and sends crucial files related to wallets 
 > or other system applications. My passion for elegance and functionality has led me to build 
-> a community of devoted followers who share my vision. I'm determined to make a difference 
+> a community of devoted followers who share my vision. Im determined to make a difference 
 > in the tech world and continue challenging the established norms. The future of technology 
-> and data security is in my hands, and I'm excited for what lies ahead!
+> and data security is in my hands, and Im excited for what lies ahead!
 ````
 
 ````bash
