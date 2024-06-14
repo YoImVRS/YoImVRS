@@ -1,6 +1,6 @@
 ````bash
 > node ottersek.js --info
-> Im an enthusiastic 18-year-old programmer from Spain. I consider
+> Im an enthusiastic 19-year-old programmer from Spain. I consider
 > myself a true tech revolutionary. As the founder of OnionWare, a powerful software 
 > designed to gather comprehensive information from Windows/Linux operating systems and 
 > upload it to a private CDN hosted on a Tor server with a .onion private domain, my aim is 
