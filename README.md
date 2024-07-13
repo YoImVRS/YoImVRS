@@ -1,5 +1,5 @@
 ````bash
-> node ottersek.js --info
+> node vrs.js --info
 > Im an enthusiastic 19-year-old programmer from Spain. I consider
 > myself a true tech revolutionary. As the founder of OnionWare, a powerful software 
 > designed to gather comprehensive information from Windows/Linux operating systems and 
@@ -14,13 +14,14 @@
 ````
 
 ````bash
-> node ottersek.js --contact
-> discord: @karolshearts
-> instagram: @ottersec
-> github: @ottersek
+> node vrs.js --contact
+> discord: @tcpamp
+> twitter: @YoImVRS
+> github: @YoImVRS
 ````
 
 ```
+> node vrs.js --pfp
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠸⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡏⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
